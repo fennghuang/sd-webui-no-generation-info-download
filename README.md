@@ -16,14 +16,14 @@ More happy to generate, less attention to set.
 
 ## Features
 
-1. After installed, this extension will add buttons in the following of the page. 
+1. After installed, this extension will add buttons in the following of the page.
 
-![No Geninfo Download at Save/Zip Button](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/6462799f-0277-401b-a64d-742b14939bcb)
-![No Geninfo Download at Modal](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/d4264cf6-0750-4cfd-b76c-d8c0a5c2c94c)
+![No Geninfo Download at Save/Zip Button](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/2d3962d2-fee9-4916-87b9-e3a6b3b13b3f)
+![No Geninfo Download at Modal](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/2f2a746b-4863-4cd3-81b8-fa4913c810e8)
 
 2. If you also installed [stable-diffusion-webui-images-browser](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/c0a7b9b4-da72-4562-873a-2c34185f56b9), then you will get 4 more buttons.
 
-![No Geninfo Download with stable-diffusion-webui-images-browser](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/6f0950e3-448e-4f27-9995-d4a4848940dd)
+![No Geninfo Download with stable-diffusion-webui-images-browser](https://github.com/fennghuang/sd-webui-no-generation-info-download/assets/89014758/c848455e-8155-4699-81e4-2f6c9c1c6645)
 
 ## License
 
