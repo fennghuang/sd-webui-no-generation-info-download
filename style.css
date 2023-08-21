@@ -1,34 +1,33 @@
 /* text2img img2img */
 .no-geninfo-td a {
-    color: var(--link-text-color);
-    white-space: nowrap;
-  }
-  .no-geninfo-td a:hover {
-    text-decoration: underline;
-    color: var(--link-text-color-hover);
-  }
-  .no-geninfo-td a:visited {
-    color: var(--link-text-color-visited);
-  }
-  .no-geninfo-td a:active {
-    color: var(--link-text-color-active);
-  }
-  
-  /* css for image-browser */
-  .no-geninfo-for-image-browser {
-    display: flex;
-    flex-wrap: wrap;
-    gap: var(--layout-gap);
-  }
-  .no-geninfo-for-image-browser button {
-    flex: 1;
-  }
-  
-  /* modal */
-  .no-geninfo-modal-btn {
-    white-space: nowrap !important;
-    align-self: center !important;
-    font-size: 16px !important;
-    width: auto !important;
-  }
-  
+  color: var(--link-text-color);
+  white-space: nowrap;
+}
+.no-geninfo-td a:hover {
+  text-decoration: underline;
+  color: var(--link-text-color-hover);
+}
+.no-geninfo-td a:visited {
+  color: var(--link-text-color-visited);
+}
+.no-geninfo-td a:active {
+  color: var(--link-text-color-active);
+}
+
+/* css for image-browser */
+.no-geninfo-for-image-browser {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--layout-gap);
+}
+.no-geninfo-for-image-browser button {
+  flex: 1;
+}
+
+/* modal */
+.no-geninfo-modal-btn {
+  white-space: nowrap !important;
+  align-self: center !important;
+  font-size: 16px !important;
+  width: auto !important;
+}
